@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../xampp/htdocs"
+		},
+		{
+			"name": "esp32suhulcd",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
